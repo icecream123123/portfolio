@@ -79,7 +79,6 @@
 - team2: [https://github.com/yourusername](https://github.com/yourusername)
 
 
-
 > **WorkerHeal (Final Project)**
 - **설명**:
 - 숙소/사무실 예약 대행
@@ -90,7 +89,6 @@
 - EC2
 - S3
 - JWT
-- 
 - Kakao map api
 
 - **주요 기능**:
@@ -109,5 +107,5 @@
 
 ## 📫 Contact
 - Email: dhkdentn@gmail.com
-- Blog: [[https://yourblog.com](https://yourblog.com)](https://dooveloper.tistory.com/)
+- Blog: https://dooveloper.tistory.com/
 
