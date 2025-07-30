@@ -47,10 +47,10 @@
 - 포트 포워딩, 방화벽 설정
 - Git / GitHub (형상관리 기본)
 
-🧪 6. 테스트 및 문서화
+🧪 테스트 및 문서화
 - Postman (API 테스트 도구)
 
-🧰 7. 개발 도구 (IDE & 협업)
+🧰 개발 도구 (IDE & 협업)
 - IntelliJ IDEA (Java/Spring)
 - Eclipse (Java)
 - Figma (프론트 기획단계)
